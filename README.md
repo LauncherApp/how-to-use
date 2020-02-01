@@ -1,11 +1,5 @@
 ## Welcome Launcher tutorial page
 This site aim to help you use Launcher better.
-### How to open a web page:
-
-### How to add a scheme for other app:
-
-### How to show today widget:
-
 
 ### Support or Contact
 1. Email: [qiuncheng@gmail.com](mailto://qiuncheng@gmail.com)
