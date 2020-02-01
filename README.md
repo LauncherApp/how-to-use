@@ -1,4 +1,4 @@
-## Welcome Launcher tutorial page
+## Welcome to Launcher tutorial page
 This site aim to help you use Launcher better.
 
 ### Support or Contact
